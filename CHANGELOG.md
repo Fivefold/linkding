@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.8.5 (13/12/2021)
+- [**bug**] Ensure tag names do not contain spaces [#182](https://github.com/sissbruecker/linkding/issues/182)
+- [**bug**] Consider not copying whole GIT repository to Docker image [#174](https://github.com/sissbruecker/linkding/issues/174)
+- [**enhancement**] Make bookmarks count column in admin sortable [#183](https://github.com/sissbruecker/linkding/pull/183)
+
+---
+
 ## v1.8.4 (16/10/2021)
 - [**enhancement**] Allow non-admin users to change their password [#166](https://github.com/sissbruecker/linkding/issues/166)
 
